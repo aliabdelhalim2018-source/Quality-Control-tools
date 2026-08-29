@@ -1,0 +1,22 @@
+{
+  "name": "QC Reports",
+  "short_name": "QC Reports",
+  "description": "تطبيق لتسجيل وإرسال تقارير الجودة اليومية (QC) لفريق مربيلا ماكارونيلا بسهولة وسرعة.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#E8531D",
+  "theme_color": "#E8531D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
